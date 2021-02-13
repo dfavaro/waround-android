@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Waround</string>
+    <string name="generic_error">Generic error</string>
+    <string name="wikipedia_page_url">Read more about %s</string>
+    <string name="get_there">Get there</string>
+    <string name="suggested_route_info">Suggested Route Info</string>
+</resources>

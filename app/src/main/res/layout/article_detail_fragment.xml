@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewmodel"
+            type="com.danielefavaro.waround.maps.ui.viewmodel.ArticleDetailViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.constraintlayout.widget.Group
+            android:id="@+id/detailItemsGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            app:constraint_referenced_ids="directionButton, titleTextview, descriptionTextview, imageRecyclerView, urlButton" />
+
+        <TextView
+            android:id="@+id/titleTextview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_item_margin_start"
+            android:layout_marginTop="@dimen/default_item_margin_top"
+            android:layout_marginEnd="@dimen/default_item_margin_end"
+            android:textSize="@dimen/default_title_textsize"
+            app:layout_constraintBottom_toTopOf="@id/descriptionTextview"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Title" />
+
+        <TextView
+            android:id="@+id/descriptionTextview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_item_margin_start"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="@dimen/default_item_margin_end"
+            android:layout_marginBottom="@dimen/default_item_margin_bottom"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toTopOf="@id/imageRecyclerView"
+            app:layout_constraintTop_toBottomOf="@id/titleTextview"
+            tools:text="Description" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/imageRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="@dimen/default_item_margin_bottom"
+            app:layout_constraintBottom_toTopOf="@id/urlButton"
+            app:layout_constraintHeight_percent="0.3"
+            app:layout_constraintTop_toBottomOf="@id/descriptionTextview" />
+
+        <Button
+            android:id="@+id/urlButton"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_item_margin_start"
+            android:layout_marginEnd="@dimen/default_item_margin_end"
+            android:layout_marginBottom="@dimen/default_item_margin_bottom"
+            android:onClick="@{() -> viewmodel.onUrlClick()}"
+            app:layout_constraintBottom_toTopOf="@id/directionButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Link to source" />
+
+        <Button
+            android:id="@+id/directionButton"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_item_margin_start"
+            android:layout_marginEnd="@dimen/default_item_margin_end"
+            android:layout_marginBottom="@dimen/default_item_margin_bottom"
+            android:onClick="@{() -> viewmodel.onRouteStart()}"
+            android:text="@string/get_there"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <include
+            android:id="@+id/loadingLayout"
+            layout="@layout/loading_layout"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:visibility="visible" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="default_item_margin_start" type="dimen">32dp</item>
+    <item name="default_item_margin_end" type="dimen">32dp</item>
+    <item name="default_item_margin_top" type="dimen">32dp</item>
+    <item name="default_item_margin_bottom" type="dimen">32dp</item>
+
+    <item name="default_bottomsheet_peek_height" type="dimen">120dp</item>
+
+    <item name="default_title_textsize" type="dimen">20sp</item>
+    <item name="default_textsize" type="dimen">14sp</item>
+
+    <item name="default_route_polyline_width" type="dimen">6dp</item>
+</resources>

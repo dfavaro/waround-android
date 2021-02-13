@@ -1,0 +1,457 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "geosearch": [
+      {
+        "pageid": 18806750,
+        "ns": 0,
+        "title": "Töölö Sports Hall",
+        "lat": 60.18333333333333,
+        "lon": 24.925555555555558,
+        "dist": 166,
+        "primary": ""
+      },
+      {
+        "pageid": 537137,
+        "ns": 0,
+        "title": "Finnish National Opera and Ballet",
+        "lat": 60.181666666666665,
+        "lon": 24.929722222222225,
+        "dist": 181.5,
+        "primary": ""
+      },
+      {
+        "pageid": 4852943,
+        "ns": 0,
+        "title": "Töölön Pallokenttä",
+        "lat": 60.18583333333333,
+        "lon": 24.924722222222222,
+        "dist": 361.9,
+        "primary": ""
+      },
+      {
+        "pageid": 1190033,
+        "ns": 0,
+        "title": "Helsinki Olympic Stadium",
+        "lat": 60.18694444444444,
+        "lon": 24.927222222222223,
+        "dist": 423.8,
+        "primary": ""
+      },
+      {
+        "pageid": 549280,
+        "ns": 0,
+        "title": "Töölö",
+        "lat": 60.17916666666667,
+        "lon": 24.92388888888889,
+        "dist": 516.2,
+        "primary": ""
+      },
+      {
+        "pageid": 66384819,
+        "ns": 0,
+        "title": "Töölöntori",
+        "lat": 60.179,
+        "lon": 24.9242,
+        "dist": 524.2,
+        "primary": ""
+      },
+      {
+        "pageid": 43213041,
+        "ns": 0,
+        "title": "Töölö Church",
+        "lat": 60.17972222222222,
+        "lon": 24.921111111111113,
+        "dist": 563.6,
+        "primary": ""
+      },
+      {
+        "pageid": 2914754,
+        "ns": 0,
+        "title": "Bolt Arena",
+        "lat": 60.1875,
+        "lon": 24.9225,
+        "dist": 584.2,
+        "primary": ""
+      },
+      {
+        "pageid": 51707154,
+        "ns": 0,
+        "title": "Kirpilä Art Collection",
+        "lat": 60.177499999999995,
+        "lon": 24.92666666666667,
+        "dist": 641.2,
+        "primary": ""
+      },
+      {
+        "pageid": 18853293,
+        "ns": 0,
+        "title": "Helsinki Swimming Stadium",
+        "lat": 60.18883333333333,
+        "lon": 24.930944444444446,
+        "dist": 641.3,
+        "primary": ""
+      },
+      {
+        "pageid": 730845,
+        "ns": 0,
+        "title": "HIFK",
+        "lat": 60.1777045,
+        "lon": 24.9245096,
+        "dist": 649.5,
+        "primary": ""
+      },
+      {
+        "pageid": 14627159,
+        "ns": 0,
+        "title": "Eläintarhan ajot",
+        "lat": 60.189009,
+        "lon": 24.931991,
+        "dist": 674.5,
+        "primary": ""
+      },
+      {
+        "pageid": 15213150,
+        "ns": 0,
+        "title": "Pikajuna",
+        "lat": 60.1875,
+        "lon": 24.938055555555557,
+        "dist": 711.4,
+        "primary": ""
+      },
+      {
+        "pageid": 15219754,
+        "ns": 0,
+        "title": "Salama (roller coaster)",
+        "lat": 60.18722222222222,
+        "lon": 24.939166666666665,
+        "dist": 738.8,
+        "primary": ""
+      },
+      {
+        "pageid": 2944836,
+        "ns": 0,
+        "title": "Helsinki Ice Hall",
+        "lat": 60.189166666666665,
+        "lon": 24.922222222222224,
+        "dist": 750.8,
+        "primary": ""
+      },
+      {
+        "pageid": 15213000,
+        "ns": 0,
+        "title": "Tulireki",
+        "lat": 60.18805555555555,
+        "lon": 24.938055555555557,
+        "dist": 754.4,
+        "primary": ""
+      },
+      {
+        "pageid": 15212805,
+        "ns": 0,
+        "title": "Vonkaputous",
+        "lat": 60.18833333333333,
+        "lon": 24.938055555555557,
+        "dist": 776.9,
+        "primary": ""
+      },
+      {
+        "pageid": 52153159,
+        "ns": 0,
+        "title": "Helsinki City Theatre",
+        "lat": 60.18194444444444,
+        "lon": 24.9425,
+        "dist": 784,
+        "primary": ""
+      },
+      {
+        "pageid": 9368271,
+        "ns": 0,
+        "title": "Eläintarha",
+        "lat": 60.19027777777777,
+        "lon": 24.929722222222225,
+        "dist": 790.7,
+        "primary": ""
+      },
+      {
+        "pageid": 15212933,
+        "ns": 0,
+        "title": "Linnunrata",
+        "lat": 60.187777777777775,
+        "lon": 24.94,
+        "dist": 813.2,
+        "primary": ""
+      },
+      {
+        "pageid": 54091544,
+        "ns": 0,
+        "title": "Kristuskyrkan",
+        "lat": 60.17583333333333,
+        "lon": 24.927222222222223,
+        "dist": 821.3,
+        "primary": ""
+      },
+      {
+        "pageid": 6196221,
+        "ns": 0,
+        "title": "Sibelius Monument (Helsinki)",
+        "lat": 60.18194444444444,
+        "lon": 24.91347222222222,
+        "dist": 844.8,
+        "primary": ""
+      },
+      {
+        "pageid": 6783069,
+        "ns": 0,
+        "title": "Panoraama",
+        "lat": 60.187555555555555,
+        "lon": 24.941111111111113,
+        "dist": 847.5,
+        "primary": ""
+      },
+      {
+        "pageid": 12129671,
+        "ns": 0,
+        "title": "Kirnu",
+        "lat": 60.18833333333333,
+        "lon": 24.94,
+        "dist": 853.3,
+        "primary": ""
+      },
+      {
+        "pageid": 1885366,
+        "ns": 0,
+        "title": "Finlandia Hall",
+        "lat": 60.17583333333333,
+        "lon": 24.93305555555556,
+        "dist": 855.3,
+        "primary": ""
+      },
+      {
+        "pageid": 4991826,
+        "ns": 0,
+        "title": "Linnanmäki",
+        "lat": 60.18833333333333,
+        "lon": 24.940277777777776,
+        "dist": 864.8,
+        "primary": ""
+      },
+      {
+        "pageid": 46951485,
+        "ns": 0,
+        "title": "Eläintarha Stadium",
+        "lat": 60.191111111111105,
+        "lon": 24.930833333333336,
+        "dist": 889.8,
+        "primary": ""
+      },
+      {
+        "pageid": 25540214,
+        "ns": 0,
+        "title": "Linjat",
+        "lat": 60.184049,
+        "lon": 24.945108,
+        "dist": 920.8,
+        "primary": ""
+      },
+      {
+        "pageid": 5902757,
+        "ns": 0,
+        "title": "National Museum of Finland",
+        "lat": 60.1749,
+        "lon": 24.9294,
+        "dist": 923.1,
+        "primary": ""
+      },
+      {
+        "pageid": 9017355,
+        "ns": 0,
+        "title": "Vuoristorata",
+        "lat": 60.18861111111111,
+        "lon": 24.941666666666666,
+        "dist": 943.2,
+        "primary": ""
+      },
+      {
+        "pageid": 66239983,
+        "ns": 0,
+        "title": "Villa Hakasalmi",
+        "lat": 60.174716,
+        "lon": 24.934107,
+        "dist": 991.3,
+        "primary": ""
+      },
+      {
+        "pageid": 66394146,
+        "ns": 0,
+        "title": "Runeberginkatu",
+        "lat": 60.17468,
+        "lon": 24.92227,
+        "dist": 1007.9,
+        "primary": ""
+      },
+      {
+        "pageid": 24298543,
+        "ns": 0,
+        "title": "Kulttuuritalo",
+        "lat": 60.18833333333333,
+        "lon": 24.944166666666668,
+        "dist": 1035.9,
+        "primary": ""
+      },
+      {
+        "pageid": 19821082,
+        "ns": 0,
+        "title": "Children's Castle",
+        "lat": 60.18555555555555,
+        "lon": 24.91,
+        "dist": 1058.4,
+        "primary": ""
+      },
+      {
+        "pageid": 38543067,
+        "ns": 0,
+        "title": "University of the Arts Helsinki",
+        "lat": 60.1741,
+        "lon": 24.9346,
+        "dist": 1064.9,
+        "primary": ""
+      },
+      {
+        "pageid": 28232872,
+        "ns": 0,
+        "title": "Töölö Rowing Stadium",
+        "lat": 60.1789,
+        "lon": 24.9112,
+        "dist": 1071.1,
+        "primary": ""
+      },
+      {
+        "pageid": 25540520,
+        "ns": 0,
+        "title": "Alppiharju",
+        "lat": 60.18833333333333,
+        "lon": 24.94527777777778,
+        "dist": 1087.6,
+        "primary": ""
+      },
+      {
+        "pageid": 46950433,
+        "ns": 0,
+        "title": "Helsinki School of Business",
+        "lat": 60.189722222222215,
+        "lon": 24.91361111111111,
+        "dist": 1099.5,
+        "primary": ""
+      },
+      {
+        "pageid": 30014783,
+        "ns": 0,
+        "title": "Alppila Upper Secondary School",
+        "lat": 60.19166666666666,
+        "lon": 24.939444444444444,
+        "dist": 1118.7,
+        "primary": ""
+      },
+      {
+        "pageid": 24240397,
+        "ns": 0,
+        "title": "Helsinki Music Centre",
+        "lat": 60.17361111111111,
+        "lon": 24.935,
+        "dist": 1123.4,
+        "primary": ""
+      },
+      {
+        "pageid": 9104286,
+        "ns": 0,
+        "title": "Temppeliaukio Church",
+        "lat": 60.17305555555555,
+        "lon": 24.92527777777778,
+        "dist": 1141.3,
+        "primary": ""
+      },
+      {
+        "pageid": 2075328,
+        "ns": 0,
+        "title": "Kallio",
+        "lat": 60.18416666666666,
+        "lon": 24.949166666666667,
+        "dist": 1145.4,
+        "primary": ""
+      },
+      {
+        "pageid": 7020184,
+        "ns": 0,
+        "title": "Laakso",
+        "lat": 60.19166666666666,
+        "lon": 24.916666666666668,
+        "dist": 1148.7,
+        "primary": ""
+      },
+      {
+        "pageid": 19046304,
+        "ns": 0,
+        "title": "Paasitorni",
+        "lat": 60.17861111111111,
+        "lon": 24.947222222222223,
+        "dist": 1151.5,
+        "primary": ""
+      },
+      {
+        "pageid": 45223395,
+        "ns": 0,
+        "title": "Helsinki Central Library Oodi",
+        "lat": 60.1738,
+        "lon": 24.9381,
+        "dist": 1170.3,
+        "primary": ""
+      },
+      {
+        "pageid": 2445984,
+        "ns": 0,
+        "title": "VR warehouses",
+        "lat": 60.17305,
+        "lon": 24.935566666666666,
+        "dist": 1192.6,
+        "primary": ""
+      },
+      {
+        "pageid": 1938744,
+        "ns": 0,
+        "title": "Freemason's Grave",
+        "lat": 60.175555555555555,
+        "lon": 24.944027777777777,
+        "dist": 1205.8,
+        "primary": ""
+      },
+      {
+        "pageid": 11466746,
+        "ns": 0,
+        "title": "World Village Festival",
+        "lat": 60.175,
+        "lon": 24.943055555555556,
+        "dist": 1213.8,
+        "primary": ""
+      },
+      {
+        "pageid": 211456,
+        "ns": 0,
+        "title": "Parliament of Finland",
+        "lat": 60.1725,
+        "lon": 24.933333333333334,
+        "dist": 1217.9,
+        "primary": ""
+      },
+      {
+        "pageid": 4320037,
+        "ns": 0,
+        "title": "Parliament House, Helsinki",
+        "lat": 60.1725,
+        "lon": 24.933333333333334,
+        "dist": 1217.9,
+        "primary": ""
+      }
+    ]
+  }
+}
