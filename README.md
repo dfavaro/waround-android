@@ -1,9 +1,10 @@
 # Waround - What around
-    
+
+Sample app featuring a Google Maps view with some clickable markers for more infos. 
+
 ## App architecture   
   The app is written using the **MVVM** pattern with **Dagger2** for DI. 
-  Basically the app is composed by a main component (*AppComponent*) which includes other main modules such us the *RetrofitModule*, and subcomponents such as the *MapsComponent* module, which again includes its own modules.
-
+  
 ## App testing
 There are few test settled up in order to test 
 - the repo's responses returning the correct model and 
